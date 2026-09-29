@@ -1,3 +1,0 @@
- git config    --global user.name "Perfect Lunga"
- git config    --global user.email "x00225795@mytudublin.ie"
- git config    --list
